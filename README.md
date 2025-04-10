@@ -34,7 +34,7 @@ I'm currently navigating the world of **data analytics** while bringing a little
 
 - 🔍 **Tech-Moms Data Dashboard** – Shining a light on community impact with beautiful visuals *(coming soon!)*
 - 🧼 **Data Cleaning Playground** – Practicing on messy datasets like a pro
-- 🧶 **Crochet Pattern Tracker (Idea Stage)** – A fun side project to merge tech with my crafty world
+- 🧶 **Crochet Pattern Generator and Tracker (Idea Stage)** – A fun side project to merge tech with my crafty world
 
 ---
 
