@@ -5,6 +5,8 @@
 A proud **Tech Mom**, **data explorer**, and creative soul with a love for **chalk art, crocheting, and softball**. 
 I'm currently navigating the world of **data analytics** while bringing a little creativity to everything I do. Whether I’m working with data or sidewalk chalk, I’m all about turning patterns and spreadsheets into stories and dashboards into discoveries.
 
+📊 Currently completing the **Data Analytics Program** with **Tech Moms & Weber State University**.
+
 ---
 
 ## 🧠 What I'm Learning
@@ -42,7 +44,8 @@ I'm currently navigating the world of **data analytics** while bringing a little
 
 - 🎨 I create chalk art that tells stories on sidewalks
 - 🧶 Crocheting is my favorite way to unwind (and problem-solve)
-- 🥎 You can usually find me on the softball field!  Both playing and Umpiring!
+- 📚 I love getting lost in a good book of any genre (*recommendations welcome!*) 
+- 🥎 You can usually find me on the softball field (*both playing and Umpiring!*)
 - 💡 I believe data can be both powerful *and* creative
 
 ---
