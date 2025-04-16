@@ -10,7 +10,7 @@ I'm currently navigating the world of **data analytics** while bringing a little
 ---
 
 ## 🧠 What I'm Learning
-- 📊 Excel, SQL, Tableau, Power BI, Looker, Google Sheets, Domo, Adobe Analytics
+- 📊 Excel, SQL, Deep Note, Tableau, Power BI, Looker, Google Sheets, Domo, Adobe Analytics
 - 🎯 Real-world data projects
 - 🧩 Data storytelling and visualization design
 - 🚀 GitHub for collaboration + showcasing my progress
@@ -27,6 +27,7 @@ I'm currently navigating the world of **data analytics** while bringing a little
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![Domo](https://img.shields.io/badge/-Domo-007DB8?style=flat&logo=domo&logoColor=white)
 ![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-2A2A2A?style=flat&logo=adobe-analytics&logoColor=white)
+![Deepnote](https://img.shields.io/badge/-Deepnote-3793EF?style=flat&logo=deepnote&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
